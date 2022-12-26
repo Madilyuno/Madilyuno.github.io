@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Yunho Jeong"
-  avatar           : "/assets/images/2.jpg"
+  avatar           : "/assets/images/2.png"
   bio              : "Biomedical AI Research Student"
   location         : "Seoul, Korea"
-  email            : "wjddbsgh4152@dgist.ac.kr & madilyuno@gmail.com"
+  email            : "madilyuno@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
