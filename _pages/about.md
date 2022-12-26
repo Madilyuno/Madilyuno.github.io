@@ -32,10 +32,14 @@ toc_label: "MYSELF"
 ## Research Experiences
 
 - Research Student at Medical Image & Signal Processing Lab, Daegu Gyeongbuk Institute of Science and Technology, Korea (Jun. 2021 ~ Aug. 2021) / Undergraduate Researcher
+  - Spinal Grading for Diagnosis of Spinal Stenosis through Deep Learning
+  - Injection Product Defect Detection
 
 - Research Intern at Communication and Signal Processing Lab, Daegu Gyeongbuk Institute of Science and Technology, Korea (Jun. 2022 ~ Aug. 2022) / Undergraduate Researcher
+  - Classification of Neurochemicals and Estimation of Concentrations in Mixture with FSCV data
 
 - Research Intern at Autonomous Driving R&D Team, Sonnet AI, Korea (Dec. 2021 ~ Feb. 2022) / Deep Learning Developer
+  - Evaluation of Deep Learning Model Performance for Real-Time Lane Detection for Autonomous Vehicles
 
 
 ## Publications (SCIE/ESCI)
