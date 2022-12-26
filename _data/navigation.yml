@@ -3,7 +3,7 @@ main:
   #- title: "Home"
   #  url: "/"
   - title: "Introduce"
-    url: /about/
+    url: "/_posts/cv.md"
   - title: "Category"
     url: "/categories/"
   - title: "Tags"
