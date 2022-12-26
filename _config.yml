@@ -108,7 +108,6 @@ author:
   avatar           : "/assets/images/2.jpg"
   bio              : "Biomedical AI Research Student"
   location         : "Seoul, Korea"
-  email            : "madilyuno@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
