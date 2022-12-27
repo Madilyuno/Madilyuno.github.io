@@ -1,7 +1,7 @@
 ---
 title: "Nothing but myself"
 layout: archive
-permalink: categories/MySelf
+permalink: /MySelf
 author_profile: true
 sidebar_main: true
 ---
