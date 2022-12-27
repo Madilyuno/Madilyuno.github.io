@@ -2,10 +2,10 @@
 main:
   #- title: "Home"
   #  url: "/"
-  - title: "Introduce"
+  - title: "About Me"
     url: "/about/"
   - title: "Category"
     url: "/categories/"
-  - title: "Tags"
-    url: /tags/
+  - title: "Contact"
+    url: /contact/
 
