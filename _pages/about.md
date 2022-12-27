@@ -1,11 +1,13 @@
 ---
 permalink: /about/
-title: "Hi"
+title: "About Me"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
 ---
-### I'm Yunho and here's my CV
+
+# Hi there!
+I'm Yunho and here's my CV
 ![image](/assets/images/cv.jpg){: width="65%" height="65%"}
 
 ## Personal Information
