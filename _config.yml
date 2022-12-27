@@ -293,8 +293,10 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:                 
+        nav: "sidebar-category" 
   
-  # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
+  # _pages                      
   - scope:
       path: "_pages"
       type: pages
