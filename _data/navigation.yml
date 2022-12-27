@@ -9,3 +9,10 @@ main:
   - title: "Contact"
     url: /contact/
 
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "Myself"
+        url: "/MySelf"
+      - title: "Coding Test"
+        url:  "/codetest"
