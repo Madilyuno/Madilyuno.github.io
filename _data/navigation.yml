@@ -10,9 +10,15 @@ main:
     url: /contact/
 
 sidebar-category:
-  - title: "Category"
+  - title: "🌐 Myself"
     children:
-      - title: "Myself"
+      - title: "CV"
         url: "/MySelf"
-      - title: "Coding Test"
-        url:  "/codetest"
+        
+  - title: "💻 Coding Test"
+    children:
+      - title: "Baekjoon"
+        url: "/codetest"
+       
+     
+
