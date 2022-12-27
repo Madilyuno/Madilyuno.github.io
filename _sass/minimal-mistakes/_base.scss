@@ -126,6 +126,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -139,7 +141,6 @@ a {
     outline: 0;
   }
 }
-
 /* buttons */
 
 button:focus {
