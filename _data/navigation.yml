@@ -13,12 +13,12 @@ sidebar-category:
   - title: "🌐 Myself"
     children:
       - title: "CV"
-        url: "/myself"
+        url: "/myself/"
         
   - title: "💻 Coding Test"
     children:
       - title: "Baekjoon"
-        url: "/codetest"
+        url: "/codetest/"
        
      
 
