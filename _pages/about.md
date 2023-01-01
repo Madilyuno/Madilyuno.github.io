@@ -15,12 +15,10 @@ I'm Yunho and here's my CV
 - Undergraduate Student in Daegu Gyeongbuk Institute of Science and Technology
 - 333, Techno jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, Republic of Korea
 - Email: [wjddbsgh4152@dgist.ac.kr](mailto:wjddbsgh4152@dgist.ac.kr) & [madilyuno@gmail.com](mailto:madilyuno@gmail.com)
-- Phone: +82) 01072084152
 
 ## Education
 
 - [Feb. 2020 ~ Present] *Bachelor* *Student, in* School of Undergraduate Studies, **Deagu Gyeongbuk Institute of Science and Technology (DGIST),** Daegu, Korea
-- GPA: 3.29 / 4.3
 
 ## Research Interests
 
