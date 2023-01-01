@@ -1,7 +1,7 @@
 ---
 title: "Coding Test"
 layout: archive
-permalink: /codetest
+permalink: /codetest/
 author_profile: true
 sidebar_main: true
 ---
