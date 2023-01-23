@@ -9,16 +9,16 @@ main:
   - title: "Contact"
     url: /contact/
 
-sidebar-category:
-  - title: "🌐 Myself"
-    children:
-      - title: "CV"
-        url: "/myself/"
+# sidebar-category:
+#   - title: "🌐 Myself"
+#     children:
+#       - title: "CV"
+#         url: "/myself/"
         
-  - title: "💻 Coding Test"
-    children:
-      - title: "Baekjoon"
-        url: "/codetest/"
+#   - title: "💻 Coding Test"
+#     children:
+#       - title: "Baekjoon"
+#         url: "/codetest/"
        
      
 
