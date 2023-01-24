@@ -13,20 +13,20 @@ categories:
   - title: "🌐 Myself"
     children:
       - title: "CV"
-        url: /categories/myself/
+        url: "/categories/myself/"
         
   - title: "💻 Coding Test"
     children:
       - title: "Baekjoon"
-        url: /categories/codetest/
+        url: "/categories/codetest/"
        
-   - title: "🚀 Deep Learning"
+  - title: "🚀 Deep Learning"
     children:
       - title: "Deep Learning"
-        url: /categories/deeplearning/
+        url: "/categories/deeplearning/"
         
-   - title: "🌌 Linear Algebra"
+  - title: "🌌 Linear Algebra"
     children:
       - title: "Linear Algebra"
-        url: /categories/linearalgebra/
+        url: "/categories/linearalgebra/"
 
