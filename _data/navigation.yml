@@ -20,13 +20,13 @@ sidebar-category:
       - title: "Baekjoon"
         url: "/codetest/"
        
-   - title: "Deep Learning"
+   - title: "🚀 Deep Learning"
     children:
-      - title: " 🚀 Deep Learning"
+      - title: "Deep Learning"
         url: "/deeplearning/"
         
-   - title: "Linear Algebra"
+   - title: "🌌 Linear Algebra"
     children:
-      - title: " 🌌 Linear Algebra"
+      - title: "Linear Algebra"
         url: "/linearalgebra/"
 
