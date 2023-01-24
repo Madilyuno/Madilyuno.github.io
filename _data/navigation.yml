@@ -8,25 +8,25 @@ main:
     url: "/categories/"
   - title: "Contact"
     url: /contact/
-
+    
 categories:
   - title: "🌐 Myself"
     children:
       - title: "CV"
-        url: "/myself/"
+        url: /categories/myself/
         
   - title: "💻 Coding Test"
     children:
       - title: "Baekjoon"
-        url: "/codetest/"
+        url: /categories/codetest/
        
    - title: "🚀 Deep Learning"
     children:
       - title: "Deep Learning"
-        url: "/deeplearning/"
+        url: /categories/deeplearning/
         
    - title: "🌌 Linear Algebra"
     children:
       - title: "Linear Algebra"
-        url: "/linearalgebra/"
+        url: /categories/linearalgebra/
 
