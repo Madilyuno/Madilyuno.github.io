@@ -9,7 +9,7 @@ main:
   - title: "Contact"
     url: /contact/
 
-sidebar-category:
+categories:
   - title: "🌐 Myself"
     children:
       - title: "CV"
