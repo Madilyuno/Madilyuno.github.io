@@ -8,8 +8,8 @@ tags:
  - 선형대수학
 last_modified_at: 2023-01-25
 sidebar:
-  nav: "sidebar-category"
-permalink: /linearalgebra/선형대수학/
+  nav: "sidebar-categories"
+permalink: /linearalgebra/LinearAlgebra/
 toc: true
 toc_sticky: true
 toc_label: "LinearAlgebra"
