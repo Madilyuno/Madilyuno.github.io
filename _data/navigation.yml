@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-   url: "/"
+    url: /
   - title: "About Me"
-   url: "/about/"
+    url: /about/
   - title: "Category"
-   url: "/categories/"
+    url: /categories/
     
 sidebar-categories:
   - title: "🌐 Myself"
