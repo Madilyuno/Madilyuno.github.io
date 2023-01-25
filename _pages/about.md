@@ -8,7 +8,7 @@ toc_label: "MYSELF"
 
 ## Hi there!
 I'm Yunho and here's my CV
-![image](/assets/images/cv.jpg){: width="65%" height="65%"}
+![image](/assets/images/2.jpg){: width="65%" height="65%"}
 
 ## Personal Information
 
