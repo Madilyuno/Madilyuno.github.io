@@ -1,10 +1,10 @@
 ---
 title: "About Me"
 permalink: /about/
-layout: archive
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
+layout: single
 ---
 
 ## Hi there!
