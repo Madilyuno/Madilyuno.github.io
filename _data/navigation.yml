@@ -4,8 +4,6 @@ main:
     url: /
   - title: "About Me"
     url: /about/
-  - title: "Category"
-    url: /categories/
     
 sidebar-categories:
   - title: "🌐 Myself"
