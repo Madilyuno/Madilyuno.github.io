@@ -5,5 +5,5 @@ permalink: /categories/codetest/
 author_profile: true
 taxonomy: CodingTest
 sidebar:
-  nav: "categories"
+  nav: "sidebar-categories"
 ---
