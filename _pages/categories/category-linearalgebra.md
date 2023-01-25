@@ -1,9 +1,9 @@
 ---
-title: "Linear Algebra"
+title: "LinearAlgebra"
 layout: category
 permalink: /categories/linearalgebra/
 author_profile: true
-taxonomy: Linear Algebra
+taxonomy: LinearAlgebra
 sidebar:
   nav: "sidebar-categories"
 ---
