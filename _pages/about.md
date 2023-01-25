@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
+layout: posts
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
