@@ -48,6 +48,7 @@ toc_label: "Neurochemical Concentration Prediction using Deep learning vs Princi
 | --- | --- | --- | --- | --- | --- | --- |
 | PCR | 17.75 ± 2.86 | 20.22 ± 3.7 | 15.84 ± 1.96 | 14.24 ± 2.16 | 13.47 ± 2.38 | 19.49 ± 4.79 |
 | DL | 10.17 ± 1.2 | 12.29 ± 1.71 | 11.95 ± 1.42  | 7.97 ± 1.31  | 7.73 ± 1.15 | 11.98 ± 1 |
+
 - **DL is more suited to the analysis of mixtures of neurochemicals**
 - DA, EP, NE and 5-HT shows the linear relation with concentration and the oxidation current at the peak potential
 
