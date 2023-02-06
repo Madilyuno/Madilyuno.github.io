@@ -1,5 +1,7 @@
 ---
 title: "[논문리뷰] Neurochemical Concentration Prediction using Deep learning vs Principal Component Regression in Fast Scan Cyclic Voltammetry: A Comparison Study"
+categories:
+ - DeepLearning
 tags:
  - FSCV
  - Neuroscience
@@ -7,6 +9,7 @@ tags:
 last_modified_at: 2023-02-06
 sidebar:
   nav: "sidebar-categories"
+permalink: /deeplearning/neurochemical/
 toc: true
 toc_sticky: true
 toc_label: "Neurochemical Concentration Prediction using Deep learning vs Principal Component Regression in Fast Scan Cyclic Voltammetry: A Comparison Study"
