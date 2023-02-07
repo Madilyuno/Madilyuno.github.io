@@ -1,5 +1,5 @@
 ---
-title: "환경 변수(environment variable)란?"
+title: "[개념정리] 환경 변수(environment variable)란?"
 categories:
  - DeepLearning
 tags:
