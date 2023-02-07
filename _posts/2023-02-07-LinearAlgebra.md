@@ -1,12 +1,12 @@
 ---
-title: "Linear Algebra"
+title: "[개념정리] Linear Algebra"
 categories:
  - LinearAlgebra
 tags:
  - LinearAlgebra
  - 공부
  - 선형대수학
-last_modified_at: 2023-01-25
+last_modified_at: 2023-02-07
 sidebar:
   nav: "sidebar-categories"
 permalink: /linearalgebra/LinearAlgebra/
