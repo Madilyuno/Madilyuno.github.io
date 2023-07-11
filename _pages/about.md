@@ -13,6 +13,7 @@ layout: single
 I'm Yunho and here's my CV
 
 ![image](/assets/images/2.jpg){: width="40%" height="40%"}
+{: .align-center}
 
 ## Personal Information
 
