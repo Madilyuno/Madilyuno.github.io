@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+sidebar:
+  nav: "sidebar-categories"
 permalink: /about/
 toc: true
 toc_sticky: true
@@ -10,7 +12,7 @@ layout: single
 ## Hi there!
 I'm Yunho and here's my CV
 
-![image](/assets/images/2.jpg){: width="30%" height="30%"}
+![image](/assets/images/2.jpg){: width="40%" height="40%"}
 
 ## Personal Information
 
