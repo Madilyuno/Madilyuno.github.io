@@ -6,7 +6,8 @@ tags:
  - LinearAlgebra
  - 공부
  - 선형대수학
-last_modified_at: 2023-02-07
+use_math: true
+last_modified_at: 2023-07-17
 sidebar:
   nav: "sidebar-categories"
 permalink: /linearalgebra/LinearAlgebra/
