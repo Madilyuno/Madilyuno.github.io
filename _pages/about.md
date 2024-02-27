@@ -13,17 +13,16 @@ layout: single
 I'm Yunho and here's my CV
 
 ![image](/assets/images/2.jpg){: width="40%" height="40%" .align-center}
-{: .align-center}
 
 ## Personal Information
 
-- Undergraduate Student in Daegu Gyeongbuk Institute of Science and Technology (333, Techno jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, Republic of Korea)
+- Integrated MS&Ph.D Candidate in Daegu Gyeongbuk Institute of Science and Technology (333, Techno jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, Republic of Korea)
 - Email: [wjddbsgh4152@dgist.ac.kr](mailto:wjddbsgh4152@dgist.ac.kr) & [madilyuno@gmail.com](mailto:madilyuno@gmail.com)
 
 ## Education
 
-- [Feb. 2020 ~ Present] *Bachelor* *Student, in* School of Undergraduate Studies, __Deagu Gyeongbuk Institute of Science and Technology (DGIST)__, Daegu, Korea
-
+- [Feb. 2020 ~ Feb.2024] *Bachelor of Science*, in* School of Undergraduate Studies, **Deagu Gyeongbuk Institute of Science and Technology (DGIST),** Daegu, Korea
+- [Feb. 2024 ~ Present] Integrated MS&Ph.D Candidate, in* School of Undergraduate Studies, **Deagu Gyeongbuk Institute of Science and Technology (DGIST),** Daegu, Korea
 ## Research Interests
 
 - Biomedical signal processing
@@ -41,22 +40,23 @@ Medical Image & Signal Processing Lab, Daegu Gyeongbuk Institute of Science and 
 
 Autonomous Driving R&D Team, Sonnet AI, Korea (Dec. 2021 ~ Feb. 2022) / Research Intern
 
+
 ## Publications (SCIE/ESCI)
 
-1. S. Kang, J. Park, __Y. Jeong__ Y. -S. Oh, and J. -W. Choi, “Second Derivative-Based Background Drift Removal for Tonic Dopamine Measurement in Fast-Scan Cyclic Voltammetry,” *Analytical Chemistry*, vol. 94, no. 33, pp. 11459-11463, August. 2022, doi: [https://pubs.acs.org/doi/10.1021/acs.analchem.2c01047](https://pubs.acs.org/doi/10.1021/acs.analchem.2c01047)
-2. S. Kang, __Y. Jeong__, J. -W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’23), Sydney, Australia, July 24-28, 2023 (Full contributed paper) 
+1. S. Kang, J. Park, **Y. Jeong**, Y. -S. Oh, and J. -W. Choi, “Second Derivative-Based Background Drift Removal for Tonic Dopamine Measurement in Fast-Scan Cyclic Voltammetry,” *Analytical Chemistry*, vol. 94, no. 33, pp. 11459-11463, August. 2022, doi: [https://pubs.acs.org/doi/10.1021/acs.analchem.2c01047](https://pubs.acs.org/doi/10.1021/acs.analchem.2c01047)
+2. S. Kang, **Y. Jeong**, J. -W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’23), Sydney, Australia, July 24-28, 2023 (Full contributed paper) 
+
 
 ## Patents
 
 **Filed Patents (U.S.)**
 
-1. J. -W. Choi, S. Kang, Y. -S. Oh, J. Park, __Y. Jeong__, “NEUROTRANSMITTER CONCENTRATION MEASURING APPARATUS FOR PROVIDING SECOND DERIVATIVE-BASED NEUROTRANSMITTER CONCENTRATION MEASUREMENT RESULT OF FAST-SCAN CYCLIC VOLTAMMETRY DATA AND METHOD THEREOF,” U.S. patent application filed (18/120,771), March. 13, 2023.
+1. J. -W. Choi, S. Kang, Y. -S. Oh, J. Park, **Y. Jeong**, “NEUROTRANSMITTER CONCENTRATION MEASURING APPARATUS FOR PROVIDING SECOND DERIVATIVE-BASED NEUROTRANSMITTER CONCENTRATION MEASUREMENT RESULT OF FAST-SCAN CYCLIC VOLTAMMETRY DATA AND METHOD THEREOF,” U.S. patent application filed (18/120,771), March. 13, 2023.
 
 **Filed Patents (Korea and PCT)**
 
-1. 최지웅, 강성탁, __정윤호__, “FSCV 기반 여러 신경전달물질의 장시간 농도 측정 결과를 동시에 제공하는 딥러닝 방식의 신경전달물질 농도 측정 장치 및 방법 (Neurotransmitter concentration measuring apparatus for simultaneously providing long time measuring results of concentration for various neurotransmitter based on fast-scan cyclic voltammetry and method thereof),” (10-2023-0028397), March. 3, 2023.
-2. 최지웅, 강성탁, 오용석, 박정락, __정윤호__, “FSCV 데이터의 이차미분기반 신경전달물질의 농도 측정 결과를 제공하는 신경전달물질 농도 측정 장치 및 방법 (Neurotransmitter concentration measuring apparatus for providing measuring result of  neurotransmitter concentration based on second derivative in fast-scan cyclic voltammetry and method thereof),” (10-2022-0059880), May, 17, 2022.
-
+1. 최지웅, 강성탁, **정윤호**, “FSCV 기반 여러 신경전달물질의 장시간 농도 측정 결과를 동시에 제공하는 딥러닝 방식의 신경전달물질 농도 측정 장치 및 방법 (Neurotransmitter concentration measuring apparatus for simultaneously providing long time measuring results of concentration for various neurotransmitter based on fast-scan cyclic voltammetry and method thereof),” (10-2023-0028397), March. 3, 2023.
+2. 최지웅, 강성탁, 오용석, 박정락, **정윤호**, “FSCV 데이터의 이차미분기반 신경전달물질의 농도 측정 결과를 제공하는 신경전달물질 농도 측정 장치 및 방법 (Neurotransmitter concentration measuring apparatus for providing measuring result of  neurotransmitter concentration based on second derivative in fast-scan cyclic voltammetry and method thereof),” (10-2022-0059880), May, 17, 2022.
 
 ## Projects
 
@@ -73,8 +73,10 @@ Startup Project with Personalized Nutrition Salad, Ministry of SMEs and Startups
 
 Startup support, Ministry of SMEs and Startups, Korea (Sep. 2021)
 
+
 ## Skills and Techniques
 
 Language and Frameworks: Python, C, C++, Pytorch
 
 Technologies: Deep Learning, Machine Learning, Computer Vision, Sequence Processing, ROS, Linux
+
