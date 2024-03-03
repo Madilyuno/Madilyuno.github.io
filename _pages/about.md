@@ -23,6 +23,7 @@ I'm Yunho and here's my CV
 
 - [Feb. 2020 ~ Feb.2024] *Bachelor of Science*, in School of Undergraduate Studies, **Deagu Gyeongbuk Institute of Science and Technology (DGIST),** Daegu, Korea
 - [Feb. 2024 ~ Present] *Integrated MS&Ph.D Candidate*, in Department of The Interdisciplinary Studies of Artificial Intelligence, **Deagu Gyeongbuk Institute of Science and Technology (DGIST),** Daegu, Korea
+
 ## Research Interests
 
 - Biomedical signal processing
