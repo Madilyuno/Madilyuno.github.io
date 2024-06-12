@@ -48,13 +48,14 @@ Autonomous Driving R&D Team, Sonnet AI, Korea (Dec. 2021 ~ Feb. 2022) / Research
 2. S. Kang, <ins>**Y. Jeong**</ins>, J. -W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’23), Sydney, Australia, July 24-28, 2023 (Full contributed paper)
 
 ### Domestic
-1. 김은호, <ins>**정윤호**</ins>, 최지웅, "딥러닝을 활용한 고속스캔순환전압전류법(FSCV)에서의 다중 신경전달물질 농도 추정의 정확성 및 강건성 평가", 통신 정보 합동 학술대회 (JCCI), Apr. 24-26, 2024
+1. 김은호, <ins>**정윤호**</ins>, 최지웅, "딥러닝을 활용한 고속스캔순환전압전류법(FSCV)에서의 다중 신경전달물질 농도 추정의 정확성 및 강건성 평가", Joint Conference on Communications and Information(JCCI), Apr. 24-26, 2024
+2. <ins>**정윤호**</ins>, 김은호, 최지웅, "도메인 전이를 이용한 고속스캔순환전압전류법(FSCV) 기반 신경전달물질 농도 추정 모델", KICS Summer Conference, Jun. 19-22, 2024
 
 
 ## Patents
 **Filed Patents (U.S.)**
 1. J. -W. Choi, S. Kang, Y. -S. Oh, J. Park, <ins>**Y. Jeong**</ins>, “NEUROTRANSMITTER CONCENTRATION MEASURING APPARATUS FOR PROVIDING SECOND DERIVATIVE-BASED NEUROTRANSMITTER CONCENTRATION MEASUREMENT RESULT OF FAST-SCAN CYCLIC VOLTAMMETRY DATA AND METHOD THEREOF,” U.S. patent application filed (18/120,771), March. 13, 2023.
-2. J. -W. Choi, S. Kang, <ins>**Y. Jeong**</ins>, E. Kim, "NEUROTRANSMITTER CONCENTRATION MEASURING APPARATUS FOR SIMULTANEOUSLY PROVIDING LONG TIME MEASURING RESULTS OF CONCENTRATION FOR VARIOUS NEUROTRANSMITTER BASED ON FAST-SCAN CYCLIC VOLTAMMETRY AND METHOD THEREOF", U.S. patent application filed (	18/594,719), March, 4, 2024.
+2. J. -W. Choi, S. Kang, <ins>**Y. Jeong**</ins>, E. Kim, "NEUROTRANSMITTER CONCENTRATION MEASURING APPARATUS FOR SIMULTANEOUSLY PROVIDING LONG TIME MEASURING RESULTS OF CONCENTRATION FOR VARIOUS NEUROTRANSMITTER BASED ON FAST-SCAN CYCLIC VOLTAMMETRY AND METHOD THEREOF", U.S. patent application filed (18/594,719), March, 4, 2024.
 
 
 **Filed Patents (Korea and PCT)**
