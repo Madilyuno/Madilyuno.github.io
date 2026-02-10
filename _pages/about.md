@@ -26,10 +26,10 @@ I'm Yunho and here's my CV
 
 ## Research Interests
 
+- RF Signal Processing
+- Vision-Language Model
 - Biomedical signal processing
 - Domain Adaptation & Generalization
-- Physics-informed Machine Learning
-- Dynamical Deep Learning
 
 ## Research Experiences
 
