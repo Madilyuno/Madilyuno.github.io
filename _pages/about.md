@@ -28,7 +28,7 @@ I'm Yunho and here's my CV
 
 - RF Signal Processing
 - Vision-Language Model
-- Biomedical signal processing
+- V2X Cooperative Perception
 - Domain Adaptation & Generalization
 
 ## Research Experiences
