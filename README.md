@@ -1,21 +1,17 @@
-# Yunho Jeong — Research Portfolio
+# Yunho Jeong — Resume & CV
 
-This repository contains the source for [madilyuno.github.io](https://madilyuno.github.io), a research portfolio and CV for Yunho Jeong.
+Professional two-page website for Yunho Jeong, an RF Signal Processing and Radar Researcher at TORIS.
 
-## Current Profile
+## Pages
 
-Yunho is a researcher at TORIS specializing in RF signal processing and radar simulation for drone-detection systems. He received his master's degree in Interdisciplinary Studies of Artificial Intelligence from DGIST in 2026.
+- [Resume](https://madilyuno.github.io/) — concise professional experience, education, selected research, and skills
+- [Curriculum Vitae](https://madilyuno.github.io/cv/) — complete research history, publications, patents, projects, and technical skills
 
-## Site Structure
+## Design
 
-- [`_pages/about.md`](_pages/about.md): Short professional introduction
-- [`_posts/2023-07-11-CV.md`](_posts/2023-07-11-CV.md): Full CV
-- [`_config.yml`](_config.yml): Site and author metadata
-- [`_data/navigation.yml`](_data/navigation.yml): Main and sidebar navigation
+The site uses a custom lightweight Jekyll layout with responsive desktop and mobile views, accessible navigation, and print styling for saving either page as a PDF. It keeps the focused visual language of modern academic portfolio themes without carrying unused blog, project, or lab-page features.
 
 ## Local Development
-
-The site uses Jekyll and the Minimal Mistakes theme.
 
 ```bash
 bundle install
@@ -24,6 +20,14 @@ bundle exec jekyll serve
 
 Then open <http://localhost:4000>.
 
+## Key Files
+
+- [`index.md`](index.md): Resume
+- [`_pages/cv.md`](_pages/cv.md): Full CV
+- [`_layouts/profile.html`](_layouts/profile.html): Shared page layout
+- [`assets/css/main.scss`](assets/css/main.scss): Responsive and print styles
+- [`_config.yml`](_config.yml): Profile and site metadata
+
 ## License
 
-The underlying Minimal Mistakes theme is distributed under the MIT License. Personal CV content belongs to Yunho Jeong.
+Personal resume and CV content belongs to Yunho Jeong.
