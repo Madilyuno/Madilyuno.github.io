@@ -4,12 +4,14 @@ main:
     url: /
   - title: "About Me"
     url: /about/
+  - title: "CV"
+    url: /myself/CV
     
 sidebar-categories:
   - title: "🌐 Myself"
     children:
       - title: "CV"
-        url: /categories/myself/
+        url: /myself/CV
         
   - title: "💻 Coding Test"
     children:

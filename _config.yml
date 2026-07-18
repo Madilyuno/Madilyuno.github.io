@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Working"
+title                    : "Yunho Jeong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yunho Jeong"
-description              : "Biomedical AI Research Student"
+description              : "RF Signal Processing and Radar Researcher"
 url                      : "https://Madilyuno.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Madilyuno"
+repository               : "Madilyuno/Madilyuno.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Yunho Jeong"
   avatar           : "/assets/images/2.jpg"
-  bio              : "Biomedical AI Research Student"
+  bio              : "RF Signal Processing and Radar Researcher at TORIS"
   location         : "Seoul, Korea"
   links:
     - label: "Email"
