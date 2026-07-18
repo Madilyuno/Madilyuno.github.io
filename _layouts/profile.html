@@ -8,7 +8,7 @@
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
-  <body>
+  <body class="page-{{ page.title | slugify }}">
     <a class="skip-link" href="#main-content">Skip to content</a>
 
     <div class="preview-shell">

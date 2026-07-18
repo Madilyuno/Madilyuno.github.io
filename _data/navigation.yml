@@ -1,6 +1,6 @@
 main:
-  - title: "Resume"
-    url: /
   - title: "CV"
-    url: /cv/
+    url: /
+  - title: "Resume"
+    url: /resume/
 
