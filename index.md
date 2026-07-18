@@ -4,7 +4,6 @@ title: "Resume"
 eyebrow: "Professional Resume"
 subtitle: "RF signal processing and radar research, supported by a foundation in artificial intelligence and cross-domain signal analysis."
 description: "Professional resume of Yunho Jeong, RF Signal Processing and Radar Researcher at TORIS."
-show_print: true
 permalink: /
 ---
 
@@ -26,7 +25,7 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
   <div class="entry-meta">Jun. — Aug. 2023</div>
   <div class="entry-body">
     <h3>Research Intern <span>· Visual Intelligence Lab, University of Virginia</span></h3>
-    <p>Participated in visual intelligence and computer-vision research.</p>
+    <p>Participated in visual intelligence and computer-vision research in the United States.</p>
   </div>
 </div>
 
@@ -34,6 +33,7 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
   <div class="entry-meta">Jun. 2022 — May 2023</div>
   <div class="entry-body">
     <h3>Undergraduate Researcher <span>· Communication and Signal Processing Lab, DGIST</span></h3>
+    <p>Republic of Korea</p>
   </div>
 </div>
 
@@ -41,6 +41,15 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
   <div class="entry-meta">Dec. 2021 — Feb. 2022</div>
   <div class="entry-body">
     <h3>Research Intern <span>· Autonomous Driving R&amp;D Team, Sonnet AI</span></h3>
+    <p>Republic of Korea</p>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-meta">Jun. — Aug. 2021</div>
+  <div class="entry-body">
+    <h3>Undergraduate Researcher <span>· Medical Image &amp; Signal Processing Lab, DGIST</span></h3>
+    <p>Republic of Korea</p>
   </div>
 </div>
 
@@ -49,7 +58,7 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
 <div class="entry">
   <div class="entry-meta">2024 — 2026</div>
   <div class="entry-body">
-    <h3>M.S., Interdisciplinary Studies of Artificial Intelligence</h3>
+    <h3>M.S. in Interdisciplinary Studies of Artificial Intelligence</h3>
     <p>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</p>
   </div>
 </div>
@@ -57,16 +66,50 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
 <div class="entry">
   <div class="entry-meta">2020 — 2024</div>
   <div class="entry-body">
-    <h3>B.S., School of Undergraduate Studies</h3>
+    <h3>B.S. in Computer Science</h3>
     <p>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</p>
   </div>
 </div>
 
-## Selected Research
+## Selected Projects
 
-1. S. Kang, J. Park, **Y. Jeong**, Y.-S. Oh, and J.-W. Choi, “Second Derivative-Based Background Drift Removal for Tonic Dopamine Measurement in Fast-Scan Cyclic Voltammetry,” *Analytical Chemistry*, 2022. [DOI](https://doi.org/10.1021/acs.analchem.2c01047)
-2. **Y. Jeong†**, C. Moon†, and J.-W. Choi, “Efficient Biomedical Time-series Contrastive Learning: Revisiting Taylor Expansion in Loss Optimization,” *ICTC 2025*.
-3. E. Kim†, **Y. Jeong†**, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review.
+<div class="entry">
+  <div class="entry-meta">Feb. — Dec. 2022</div>
+  <div class="entry-body">
+    <h3>Integrated Algorithm for an Autonomous Driving Platform</h3>
+    <p>Computer Vision Developer and Vision Team Lead · DGIST</p>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-meta">Aug. — Dec. 2021</div>
+  <div class="entry-body">
+    <h3>Dopamine Concentration Estimation from FSCV Signals</h3>
+    <p>FSCV Data Processing and Deep Learning Developer · DGIST</p>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-meta">Jun. — Dec. 2021</div>
+  <div class="entry-body">
+    <h3>Personalized Nutrition Salad Startup</h3>
+    <p>Co-Founder · Ministry of SMEs and Startups</p>
+  </div>
+</div>
+
+## Selected Publications
+
+1. S. Kang, J. Park, **Y. Jeong**, Y.-S. Oh, and J.-W. Choi, “Second Derivative-Based Background Drift Removal for Tonic Dopamine Measurement in Fast-Scan Cyclic Voltammetry,” *Analytical Chemistry*, vol. 94, no. 33, pp. 11459–11463, Aug. 2022. [DOI](https://doi.org/10.1021/acs.analchem.2c01047)
+2. S. Kang, **Y. Jeong**, and J.-W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” *IEEE EMBC 2023*, Sydney, Australia, Jul. 2023.
+3. **Y. Jeong†**, C. Moon†, and J.-W. Choi, “Efficient Biomedical Time-series Contrastive Learning: Revisiting Taylor Expansion in Loss Optimization,” *ICTC 2025*, Oct. 2025.
+4. E. Kim†, **Y. Jeong†**, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review.
+
+<p class="footnote">† Equal contribution.</p>
+
+## Selected Patents
+
+1. J.-W. Choi, S. Kang, Y.-S. Oh, J. Park, and **Y. Jeong**, “Neurotransmitter Concentration Measuring Apparatus for Providing Second Derivative-Based Neurotransmitter Concentration Measurement Result of Fast-Scan Cyclic Voltammetry Data and Method Thereof,” U.S. Patent Application No. 18/120,771, filed Mar. 13, 2023.
+2. J.-W. Choi, S. Kang, **Y. Jeong**, and E. Kim, “Neurotransmitter Concentration Measuring Apparatus for Simultaneously Providing Long-Time Measuring Results of Concentration for Various Neurotransmitters Based on Fast-Scan Cyclic Voltammetry and Method Thereof,” U.S. Patent Application No. 18/594,719, filed Mar. 4, 2024.
 
 ## Core Skills
 
@@ -77,4 +120,4 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
   <div><strong>Platforms</strong><span>Linux, ROS</span></div>
 </div>
 
-<div class="page-note">For publications, patents, and complete research history, see the <a href="/cv/">full CV</a>.</div>
+<div class="page-note">For all publications, patents, awards, and complete research details, see the <a href="/cv/">full CV</a>.</div>

@@ -4,7 +4,6 @@ title: "Curriculum Vitae"
 eyebrow: "Academic & Research CV"
 subtitle: "Research experience spanning radar, RF signal processing, artificial intelligence, biomedical signals, and autonomous systems."
 description: "Curriculum vitae of Yunho Jeong, RF Signal Processing and Radar Researcher at TORIS."
-show_print: true
 permalink: /cv/
 ---
 
@@ -26,7 +25,7 @@ permalink: /cv/
 <div class="entry">
   <div class="entry-meta">2024 — 2026</div>
   <div class="entry-body">
-    <h3>M.S., Interdisciplinary Studies of Artificial Intelligence</h3>
+    <h3>M.S. in Interdisciplinary Studies of Artificial Intelligence</h3>
     <p>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</p>
   </div>
 </div>
@@ -34,7 +33,7 @@ permalink: /cv/
 <div class="entry">
   <div class="entry-meta">2020 — 2024</div>
   <div class="entry-body">
-    <h3>B.S., School of Undergraduate Studies</h3>
+    <h3>B.S. in Computer Science</h3>
     <p>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</p>
   </div>
 </div>
