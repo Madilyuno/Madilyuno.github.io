@@ -4,7 +4,7 @@ title: "Resume"
 eyebrow: "Professional Resume"
 subtitle: "RF signal processing and radar research, supported by a foundation in artificial intelligence and cross-domain signal analysis."
 description: "Professional resume of Yunho Jeong, RF Signal Processing and Radar Researcher at TORIS."
-permalink: /
+permalink: /resume/
 ---
 
 ## Professional Summary
@@ -120,4 +120,4 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
   <div><strong>Platforms</strong><span>Linux, ROS</span></div>
 </div>
 
-<div class="page-note">For all publications, patents, awards, and complete research details, see the <a href="/cv/">full CV</a>.</div>
+<div class="page-note">For all publications, patents, awards, and complete research details, see the <a href="/">full CV</a>.</div>

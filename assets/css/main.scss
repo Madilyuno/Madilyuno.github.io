@@ -321,6 +321,10 @@ a {
   letter-spacing: -0.026em;
 }
 
+.page-curriculum-vitae .intro h2 {
+  font-size: clamp(31px, 3.2vw, 42px);
+}
+
 .intro > p:last-child {
   max-width: 860px;
   margin: 18px 0 0;
