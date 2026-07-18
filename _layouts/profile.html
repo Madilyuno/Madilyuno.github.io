@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} · {{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="nav-shell">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Yunho Jeong resume">
+          <span class="brand-mark">YJ</span>
+          <span>{{ site.author.name }}</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for item in site.data.navigation.main %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="is-active" aria-current="page"{% endif %}>{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-shell">
+      <aside class="profile-card" aria-label="Profile">
+        <img class="profile-photo" src="{{ site.author.photo | relative_url }}" alt="Portrait of {{ site.author.name }}">
+        <div class="profile-copy">
+          <p class="profile-kicker">Researcher</p>
+          <h1>{{ site.author.name }}</h1>
+          <p class="profile-role">{{ site.author.role }}</p>
+          <p class="profile-company">{{ site.author.company }}</p>
+        </div>
+
+        <div class="profile-links">
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+          <a href="{{ site.author.github }}">GitHub · Madilyuno</a>
+          <span>{{ site.author.location }}</span>
+        </div>
+
+        <div class="focus-block">
+          <p>Focus</p>
+          <div class="focus-list">
+            {% for item in site.author.focus %}<span>{{ item }}</span>{% endfor %}
+          </div>
+        </div>
+      </aside>
+
+      <main id="main-content" class="content-card">
+        <header class="page-intro">
+          <div>
+            <p class="eyebrow">{{ page.eyebrow }}</p>
+            <h2>{{ page.title }}</h2>
+            <p class="intro-copy">{{ page.subtitle }}</p>
+          </div>
+          {% if page.show_print %}
+            <button class="print-button" type="button" onclick="window.print()">Print / Save PDF</button>
+          {% endif %}
+        </header>
+
+        <article class="document-content">
+          {{ content }}
+        </article>
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <span>© {{ 'now' | date: '%Y' }} {{ site.author.name }}</span>
+      <span>Radar · RF · Artificial Intelligence</span>
+    </footer>
+  </body>
+</html>
