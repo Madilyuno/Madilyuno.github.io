@@ -91,6 +91,7 @@ permalink: /
 2. S. Kang, <ins>**Y. Jeong**</ins>, and J.-W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023)*, Sydney, Australia, Jul. 24–28, 2023.
 3. <ins>**Y. Jeong†**</ins>, C. Moon†, and J.-W. Choi, “Efficient Biomedical Time-series Contrastive Learning: Revisiting Taylor Expansion in Loss Optimization,” *16th International Conference on Information and Communication Technology Convergence (ICTC 2025)*, Oct. 2025.
 4. E. Kim†, <ins>**Y. Jeong†**</ins>, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review.
+5. <ins>**Y. Jeong**</ins>, G. Kim, and J.-W. Choi, “Toward Universal V2X Cooperation for VRU Safety: An Infrastructure-Centric Explainable Framework via Vision-Language Models.” In preparation.
 
 <p class="footnote">† Equal contribution.</p>
 
@@ -98,6 +99,7 @@ permalink: /
 
 1. 김은호, <ins>**정윤호**</ins>, 최지웅, “딥러닝을 활용한 고속스캔순환전압전류법(FSCV)에서의 다중 신경전달물질 농도 추정의 정확성 및 강건성 평가,” *Joint Conference on Communications and Information (JCCI)*, Apr. 24–26, 2024.
 2. <ins>**정윤호**</ins>, 김은호, 최지웅, “도메인 전이를 이용한 고속스캔순환전압전류법(FSCV) 기반 신경전달물질 농도 추정 모델,” *KICS Summer Conference*, Jun. 19–22, 2024.
+3. <ins>**정윤호**</ins>, 김강민, 송유승, 최지웅, “자연어 V2X 협력을 위한 인프라 기반 설명 가능한 교통약자 위험 예측 프레임워크,” *KICS Summer Conference*, Jun. 17–19, 2026.
 
 ## Patents
 
