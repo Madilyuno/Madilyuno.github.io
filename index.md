@@ -103,6 +103,8 @@ RF signal processing and radar researcher at **TORIS**, focused on drone-detecti
 2. S. Kang, **Y. Jeong**, and J.-W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” *IEEE EMBC 2023*, Sydney, Australia, Jul. 2023.
 3. **Y. Jeong†**, C. Moon†, and J.-W. Choi, “Efficient Biomedical Time-series Contrastive Learning: Revisiting Taylor Expansion in Loss Optimization,” *ICTC 2025*, Oct. 2025.
 4. E. Kim†, **Y. Jeong†**, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review.
+5. **Y. Jeong**, G. Kim, and J.-W. Choi, “Toward Universal V2X Cooperation for VRU Safety: An Infrastructure-Centric Explainable Framework via Vision-Language Models.” In preparation.
+6. **정윤호**, 김강민, 송유승, 최지웅, “자연어 V2X 협력을 위한 인프라 기반 설명 가능한 교통약자 위험 예측 프레임워크,” *KICS Summer Conference*, Jun. 17–19, 2026.
 
 <p class="footnote">† Equal contribution.</p>
 
