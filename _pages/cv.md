@@ -90,8 +90,8 @@ permalink: /
 1. S. Kang, J. Park, <ins>**Y. Jeong**</ins>, Y.-S. Oh, and J.-W. Choi, “Second Derivative-Based Background Drift Removal for Tonic Dopamine Measurement in Fast-Scan Cyclic Voltammetry,” *Analytical Chemistry*, vol. 94, no. 33, pp. 11459–11463, Aug. 2022. [DOI](https://doi.org/10.1021/acs.analchem.2c01047)
 2. S. Kang, <ins>**Y. Jeong**</ins>, and J.-W. Choi, “Simultaneous estimation of tonic dopamine and serotonin with high temporal resolution in vitro using deep learning,” *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023)*, Sydney, Australia, Jul. 24–28, 2023.
 3. <ins>**Y. Jeong†**</ins>, C. Moon†, and J.-W. Choi, “Efficient Biomedical Time-series Contrastive Learning: Revisiting Taylor Expansion in Loss Optimization,” *16th International Conference on Information and Communication Technology Convergence (ICTC 2025)*, Oct. 2025.
-4. E. Kim†, <ins>**Y. Jeong†**</ins>, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review.
-5. <ins>**Y. Jeong**</ins>, G. Kim, and J.-W. Choi, “Toward Universal V2X Cooperation for VRU Safety: An Infrastructure-Centric Explainable Framework via Vision-Language Models.” In preparation.
+4. E. Kim†, <ins>**Y. Jeong†**</ins>, S. Kim, J.-W. Choi, S. Kim, and H.-J. Kim, “Resilient FSCV decoding algorithm: Domain Adaptation for Neurotransmitter Concentration Estimation for a Preclinical Study.” Under review, 2026.
+5. <ins>**Y. Jeong†**</ins>, G. Kim†, and J.-W. Choi, “Toward Universal V2X Cooperation for VRU Safety: An Infrastructure-Centric Explainable Framework via Vision-Language Models.” In preparation, 2026.
 
 <p class="footnote">† Equal contribution.</p>
 
