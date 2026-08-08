@@ -25,7 +25,7 @@ permalink: /
 <div class="entry">
   <div class="entry-meta">2024 — 2026</div>
   <div class="entry-body">
-    <h3>M.S. in Interdisciplinary Studies of Artificial Intelligence</h3>
+    <h3>M.S. in Artificial Intelligence</h3>
     <p>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</p>
   </div>
 </div>
