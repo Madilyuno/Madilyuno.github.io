@@ -4,7 +4,8 @@ title: "Curriculum Vitae"
 eyebrow: "Academic & Research CV"
 subtitle: "Research experience spanning radar, RF signal processing, artificial intelligence, biomedical signals, and autonomous systems."
 description: "Curriculum vitae of Yunho Jeong, RF Signal Processing and Radar Researcher at TORIS."
-permalink: /
+permalink: /archive/cv/
+sitemap: false
 ---
 
 ## Current Position
