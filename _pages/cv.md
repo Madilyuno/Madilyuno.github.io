@@ -16,7 +16,7 @@ sitemap: false
     <h3>Researcher <span>· TORIS</span></h3>
     <ul>
       <li>Conduct RF signal processing research for drone-detection radar systems.</li>
-      <li>Develop and analyze radar simulations to support system design and performance evaluation.</li>
+      <li>Develop radar simulations and analyze radar data for system architecture and software algorithm design.</li>
     </ul>
   </div>
 </div>
